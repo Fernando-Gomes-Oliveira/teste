@@ -1,0 +1,22 @@
+{
+  "name": "lol",
+  "version": "1.0.0",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "node backend/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fernando-Gomes-Oliveira/teste.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fernando-Gomes-Oliveira/teste/issues"
+  },
+  "homepage": "https://github.com/Fernando-Gomes-Oliveira/teste#readme",
+  "description": ""
+}
